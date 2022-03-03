@@ -461,6 +461,8 @@ video {
 .button2 {
   position: relative;
   z-index: 2;
+  font-size: 1.2vw;
+  width: fit-content;
   cursor: pointer;
   text-decoration: none;
   color: var(--white);
