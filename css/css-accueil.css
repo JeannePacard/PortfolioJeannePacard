@@ -720,14 +720,14 @@ video {
 .copyright {
   width: 40%;
   margin-left: 4%;
-  font-size: 1.25vw;
+  font-size: 1.1vw;
   text-transform: uppercase;
 }
 
 .bar-text6 {
   margin-right: 2%;
   margin-left: 2%;
-  font-size: 1.25vw;
+  font-size: 1.1vw;
   font-weight: 600;
 }
 
@@ -743,7 +743,7 @@ video {
 }
 
 .end-contact {
-  font-size: 1.25vw;
+  font-size: 1.1vw;
   margin-left: 3%;
   margin-top: auto;
   margin-bottom: auto;
