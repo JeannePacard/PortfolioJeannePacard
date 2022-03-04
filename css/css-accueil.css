@@ -6,7 +6,7 @@ html {
   --white: #fafafa;
   --black: #292929;
   --line: #000000;
-  scroll: behaviour
+  scroll-behavior: smooth;
 }
 
 html.dark {
