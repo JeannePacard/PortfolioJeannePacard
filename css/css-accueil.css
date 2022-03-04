@@ -105,6 +105,7 @@ input:checked + label:after {
   margin-left: 40%;
   font-weight: 900;
   font-size: 52vw;
+  color: var(--line);
 }
 
 .title {
