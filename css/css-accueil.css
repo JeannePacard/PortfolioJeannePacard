@@ -60,6 +60,8 @@ a {
 
 .button {
   margin-left: 40%;
+  position: relative;
+  z-index: 2;
 }
 
 input[type="checkbox"] {
@@ -99,7 +101,7 @@ input:checked + label:after {
 
 .background {
   position: relative;
-  z-index: -1;
+  z-index: 0;
   opacity: 0.06;
   margin-top: -24%;
   margin-left: 40%;
